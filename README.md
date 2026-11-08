@@ -204,4 +204,4 @@ This repository serves as the official landing page for Exact Audio Copy. The so
 **Get the most recent version of Exact Audio Copy today!**
 
 ---
-**Last updated:** 2026-11-08 17:26:08 UTC
+**Last updated:** 2026-11-08 21:31:30 UTC
